@@ -1,0 +1,9 @@
+logging:
+  pattern:
+    console: "%d %-5level %logger : %msg%n"
+  level:
+    org.springframework: WARN
+    com.suse.challenge: WARN
+
+
+ 
